@@ -5,6 +5,7 @@
 .navbar {
   border-bottom: 5px solid black;
   font-size: small;
+  opacity: 0.7;
 }
 
 body {
